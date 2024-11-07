@@ -11,6 +11,10 @@ The guidance provided is practical and tailored, offering step-by-step recommend
 ![Bridge](https://github.com/user-attachments/assets/61934114-a605-4a0b-9793-d51331b6ddcb)
 
 #
+
+> Alex: "*Some farm properties are valued higher than towering skyscrapers. Don't be bold.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
