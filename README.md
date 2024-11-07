@@ -14,6 +14,8 @@ The guidance provided is practical and tailored, offering step-by-step recommend
 
 > Alex: "*Some farm properties are valued higher than towering skyscrapers. Don't be bold.*"
 
+> "*The concept of a city is for everyone.*"
+
 #
 ### Related Links
 
