@@ -41,6 +41,8 @@ Without any traditions your are dancing to the beat of your own drum, embracing 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Urban Update](https://github.com/sourceduty/Urban_Update)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
