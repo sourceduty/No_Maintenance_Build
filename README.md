@@ -43,6 +43,10 @@ Without any traditions your are dancing to the beat of your own drum, embracing 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Urban Update](https://github.com/sourceduty/Urban_Update)
+<br>
+[Port Perry](https://github.com/sourceduty/Port_Perry)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
